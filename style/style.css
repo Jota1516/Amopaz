@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-image: url(../Baner.jpeg);
+  background-image: url(../imagens/Baner.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -113,7 +113,7 @@ img:hover {
 .left {
   width: 50%;
   height: 500px;
-  background-image: url(../Imagem.jpeg);
+  background-image: url(../imagens/Imagem.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -177,7 +177,7 @@ img:hover {
 
 .full-page {
   height: 800px;
-  background-image: url(../Praia.jpeg);
+  background-image: url(../imagens/Praia.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
